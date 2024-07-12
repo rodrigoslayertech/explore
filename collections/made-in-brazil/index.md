@@ -36,6 +36,7 @@ items:
   - react-brasil/empresas-que-usam-react-no-brasil
   - bacen/pix-api
   - Abacatinhos/eventos-tech-brasil
+  - bootgly/bootgly
   
 display_name: Made in Brazil
 created_by: caarlos0
